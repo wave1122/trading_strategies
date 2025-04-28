@@ -46,6 +46,12 @@ For example, the following Jupyter notebook will plot all the figures in the pap
 plots_v1.ipynb
 ```
 
+# Download Data from Yahoo Finance, Fred, Nasdaq Data Link (API keys are required)
+
+```python
+downloadData.ipynb
+```
+
 
 
 # List of Main Files
